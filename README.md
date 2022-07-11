@@ -28,8 +28,8 @@ If you're building the provider, follow the instructions to [install it as a plu
 You will need to have a pair of secret id and secret key to access Tencent Cloud resources, configure it in the provider arguments or export it in environment variables. If you don't have it yet, please access [Tencent Cloud Management Console](https://console.cloud.tencent.com/cam/capi) to create one.
 
 ```
-export TENCENTCLOUD_SECRET_ID=AKID9HH4OpqLJ5f6LPr4iIm5GF2s-EXAMPLE
-export TENCENTCLOUD_SECRET_KEY=72pQp14tWKUglrnX5RbaNEtN-EXAMPLE
+export TENCENTCLOUD_SECRET_ID=xxx
+export TENCENTCLOUD_SECRET_KEY=xxx
 ```
 
 ### Configure proxy info (optional)
